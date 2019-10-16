@@ -485,7 +485,7 @@
 			<true/>
 		</dict>
 		<key>Theme</key>
-		<string>BGM</string>
+		<string>Simple Theme Dark</string>
 	</dict>
 	<key>Graphics</key>
 	<dict>
@@ -599,7 +599,7 @@
 		<string>0x67</string>
 		<key>ROM</key>
 		<data>
-		TM9oy0SM
+		21SvyBgC
 		</data>
 	</dict>
 	<key>SMBIOS</key>
@@ -617,7 +617,7 @@
 		<key>BoardManufacturer</key>
 		<string>Apple Inc.</string>
 		<key>BoardSerialNumber</key>
-		<string>C17346100GUFH318C</string>
+		<string>C17326701QXFH31A8</string>
 		<key>BoardType</key>
 		<integer>10</integer>
 		<key>BoardVersion</key>
@@ -647,16 +647,16 @@
 		<key>ProductName</key>
 		<string>MacBookPro11,1</string>
 		<key>SerialNumber</key>
-		<string>C17LP032FH00</string>
+		<string>C17KX094FH00</string>
 		<key>SmUUID</key>
-		<string>F238125B-5345-46F4-BD64-24C43A60858F</string>
+		<string>00D1E1D7-848E-4D9B-91F1-5EF37AC81802</string>
 		<key>Version</key>
 		<string>1.0</string>
 	</dict>
 	<key>SystemParameters</key>
 	<dict>
 		<key>CustomUUID</key>
-		<string>960DC0F7-F64C-4CD7-BC15-51E6CF711E5A</string>
+		<string>1CF98FAA-3E35-48E8-AF6F-738F81FD70A5</string>
 		<key>InjectKexts</key>
 		<string>Detect</string>
 	</dict>
