@@ -1,14 +1,14 @@
 联想小新笔记本V1000 FHD黑苹果HotPatch EFI
 # Lenovo-V1000-FHD黑苹果EFI
 
-# 适配10.15 (19A583)
+# 适配10.15.4
 
 ## 电脑配置
 
 | 规格     | 详细信息                                                     |
 | -------- | ------------------------------------------------------------ |
 | 电脑型号 | 联想小新笔记本V1000 FHD                                      |
-| 操作系统 | macOS Catalina 10.15 (19A583)                                        |
+| 操作系统 | macOS Catalina 10.15.4                                       |
 | 处理器   | 智能英特尔®酷睿 Haswell 双核处理器i7-4510U                   |
 | 内存     | Ramaxel Technology 4 GB 1600MHz DDR3L + Kingston 8GB 1600MHz DDR3L |
 | 硬盘     | 闪迪SDSSDA-120G                                              |
@@ -30,10 +30,10 @@
 | 有线网卡（使用RealtekRTL8111.kext）                          |
 | 声卡（使用VoodooHDA.kext）                                   |
 | 自带键盘（使用VoodooPS2Controller.kext）                     |
+| 蓝牙固件加载                                                 |
 
 | 已知问题          |
 | ------------------------- |
-| 蓝牙有时不能使用（需启动一次windows加载蓝牙固件） |
 | 自带intel无线网卡无法驱动，换无线网卡可解决 |
 | hdmi、vga外接显示器未测试 |
 
