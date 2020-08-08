@@ -34,6 +34,13 @@
 | ------------------------- |
 | 自带intel无线网卡（后续添加） |
 | hdmi、vga外接显示器未测试（可能没有音频输出） |
+| 安装或启动时重复输出IOUSBHostDevice相关日志（等待即可，去掉多余Kext驱动发现实际卡在forcing cs_runtime for entitlement:com.apple.rootless.restricted-block-devices） |
+| 安装完成后OpenCore启动项多出一个preboot 就是Big Sur系统盘 |
+
+| 其他问题        |
+| ------------------------- |
+| 安装或启动时重复输出IOUSBHostDevice相关日志（去掉多余Kext驱动发现实际卡在forcing cs_runtime for entitlement:com.apple.rootless.restricted-block-devices、等待大约20-30分钟即可） |
+| 安装完成后OpenCore启动项多出一个preboot 就是Big Sur系统盘 |
 
 | 相关链接                                                     |
 | ------------------------------------------------------------ |
