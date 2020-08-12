@@ -7,9 +7,9 @@
 
 | 规格     | 详细信息                                                     |
 | -------- | ------------------------------------------------------------ |
-| 电脑型号 | 联想小新笔记本V1000 FHD                                      |
+| 电脑型号 | [联想小新笔记本V1000 FHD](https://item.lenovo.com.cn/product/32518.html) |
 | 操作系统 | macOS Big Sur Beta 3 (20A5323l)                              |
-| 处理器   | 英特尔®酷睿 i7-4510U                                         |
+| 处理器   | [英特尔®酷睿 i7-4510U](https://ark.intel.com/content/www/cn/zh/ark/products/81015/intel-core-i7-4510u-processor-4m-cache-up-to-3-10-ghz.html) |
 | 内存     | Ramaxel Technology 4 GB 1600MHz DDR3L + Kingston 8GB 1600MHz DDR3L |
 | 硬盘     | 闪迪SDSSDA-120G + 希捷500G                                   |
 | 显卡     | Intel HD Graphics 4400 2048 MB 图形卡                        |
@@ -34,13 +34,12 @@
 | ------------------------- |
 | 自带intel无线网卡（后续添加） |
 | hdmi、vga外接显示器未测试（可能没有音频输出） |
-| 安装或启动时重复输出IOUSBHostDevice相关日志（等待即可，去掉多余Kext驱动发现实际卡在forcing cs_runtime for entitlement:com.apple.rootless.restricted-block-devices） |
-| 安装完成后OpenCore启动项多出一个preboot 就是Big Sur系统盘 |
 
 | 其他问题        |
 | ------------------------- |
 | 安装或启动时重复输出IOUSBHostDevice相关日志（去掉多余Kext驱动发现实际卡在forcing cs_runtime for entitlement:com.apple.rootless.restricted-block-devices、等待大约20-30分钟即可） |
 | 安装完成后OpenCore启动项多出一个preboot 就是Big Sur系统盘 |
+| 不能通过OpenCore引导windows系统 |
 
 | 相关链接                                                     |
 | ------------------------------------------------------------ |
