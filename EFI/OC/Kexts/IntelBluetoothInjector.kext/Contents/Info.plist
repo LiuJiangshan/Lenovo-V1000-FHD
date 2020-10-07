@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>BuildMachineOSBuild</key>
-	<string>18E226</string>
+	<string>19G73</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleIdentifier</key>
@@ -12,28 +12,30 @@
 	<string>6.0</string>
 	<key>CFBundleName</key>
 	<string>IntelBluetoothInjector</string>
+	<key>CFBundlePackageType</key>
+	<string>KEXT</string>
 	<key>CFBundleShortVersionString</key>
-	<string>1.1.1</string>
+	<string>1.1.2</string>
 	<key>CFBundleSupportedPlatforms</key>
 	<array>
 		<string>MacOSX</string>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>1.1.1</string>
+	<string>1.1.2</string>
 	<key>DTCompiler</key>
 	<string>com.apple.compilers.llvm.clang.1_0</string>
 	<key>DTPlatformBuild</key>
-	<string>10E1001</string>
+	<string>11E608c</string>
 	<key>DTPlatformVersion</key>
 	<string>GM</string>
 	<key>DTSDKBuild</key>
-	<string>16E185</string>
+	<string>16C58</string>
 	<key>DTSDKName</key>
 	<string>macosx10.12</string>
 	<key>DTXcode</key>
-	<string>1020</string>
+	<string>1150</string>
 	<key>DTXcodeBuild</key>
-	<string>10E1001</string>
+	<string>11E608c</string>
 	<key>IOKitPersonalities</key>
 	<dict>
 		<key>0026</key>
@@ -172,6 +174,8 @@
 			<integer>32903</integer>
 		</dict>
 	</dict>
+	<key>LSMinimumSystemVersion</key>
+	<string>10.12</string>
 	<key>NSHumanReadableCopyright</key>
 	<string>Copyright © 2020 钟先耀. All rights reserved.</string>
 	<key>OSBundleRequired</key>
