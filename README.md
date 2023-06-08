@@ -26,7 +26,7 @@
 | 亮度调节、亮度保存（hotpatch）                               |
 | 有线网卡（使用RealtekRTL8111.kext）                          |
 | 声卡（使用AppleALC.kext）                                    |
-| 自带键盘、触摸板（使用VoodooPS2Controller.kext），非最新版本，v1000使用最新版本存在问题，如其他机型[自带键盘驱动有问题可更新版本](https://github.com/LiuJiangshan/Lenovo-V1000-FHD/issues/4) |
+| 自带键盘、触摸板（使用VoodooPS2Controller.kext） |
 | 蓝牙（使用IntelBluetoothFirmware.kext、IntelBluetoothInjector.kext、BlueToolFixup.kext） |
 | 自带intel无线网卡（使用AirportItlwm.kext）                   |
 
